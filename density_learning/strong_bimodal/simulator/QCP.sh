@@ -1,0 +1,1 @@
+python ../../../../main_density_learning.py --used_device 'simulator' --pretraining_mode 'simulator_pretrained'   --exp_mode 'toy_without_input' --set_prediction_mode 'CP' --NC_mode 'distribution_aware'    --bimodal_mode_unsup 'strong';
