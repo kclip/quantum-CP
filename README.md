@@ -25,4 +25,4 @@ This program is written in python 3.9.7 and uses PyTorch 1.10.2.
 
 ### Quantum Data Classification
 
--  Stand-alone code for quantum data classificaiton can be found in the 'quantum_classification/' folder.
+-  Stand-alone code for quantum data classificaiton can be found in the 'quantum_classification/' folder. 
